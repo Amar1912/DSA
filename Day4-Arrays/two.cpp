@@ -6,7 +6,7 @@ int main()
 {
     // int size =6;
     // int count = 0;
-    // int array[6]={1, 2, 3, 4, 5, 6}; 
+    // int array[6]={1, 2, 3, 4, 5, 6};
     // cout << array[0] << endl;
 
     // for (int i = 0; i < size; i++)
@@ -43,13 +43,13 @@ int main()
     //         cout<< "fail"<<endl;
     //     }
     // }
-   int i = 0;
-    
-    while(i <= 10){
-     cout<< i;
-     i++;
-    }
+    int i = 0;
 
+    while (i <= 10)
+    {
+        cout << i;
+        i++;
+    }
 
     return 0;
 }
