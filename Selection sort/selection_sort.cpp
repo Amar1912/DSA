@@ -13,9 +13,8 @@ void selectionsort(int arr[], int sz)
             {
                 smallest = j;
             }
-          
         }
-          swap(arr[smallest], arr[i]);
+        swap(arr[smallest], arr[i]);
     }
 }
 
