@@ -1,4 +1,4 @@
-//javascript
+
 
 let amount = 25455;
 let number;
