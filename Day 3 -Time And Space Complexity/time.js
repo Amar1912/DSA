@@ -1,4 +1,4 @@
-// # ⏱️ Time & Space Complexity – Complete Detailed Notes
+// # ⏱️ Time & Space Complexity
 
 // ---
 
